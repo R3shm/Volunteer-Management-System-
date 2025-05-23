@@ -60,6 +60,6 @@ This system is designed for non-profit organizations or community projects where
 
 ## Author
 
-- GitHub: [Security & Logging System Repository](https://github.com/R3shm/Security-Logging-System)
+- GitHub:https://github.com/R3shm/Volunteer-Management-System-.git 
 - Submitted for: Java OOP Assignment  
 (Created for academic purposes.)
